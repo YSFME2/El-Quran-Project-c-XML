@@ -1,0 +1,9 @@
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\bin\Debug\Quran.exe.config
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\bin\Debug\Quran.exe
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\bin\Debug\Quran.pdb
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\obj\Debug\Quran.csprojResolveAssemblyReference.cache
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\obj\Debug\Quran.Form1.resources
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\obj\Debug\Quran.Properties.Resources.resources
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\obj\Debug\Quran.csproj.GenerateResource.Cache
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\obj\Debug\Quran.exe
+c:\users\youssef\documents\visual studio 2013\Projects\Quran\Quran\obj\Debug\Quran.pdb
